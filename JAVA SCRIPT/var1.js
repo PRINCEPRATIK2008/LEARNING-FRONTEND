@@ -22,3 +22,15 @@ let z = null;
 
 console.log(p, q, r, x, y, z)
 console.log(typeof p, typeof q, typeof r, typeof x, typeof y, typeof z)
+
+let o = {
+    name : "Prince",
+    "job code" : 5600,
+    "is handsome": true
+}
+
+console.log(o);
+o.salary = "100 crores";
+console.log(o);
+o.salary = "500 crores";
+console.log(o);
