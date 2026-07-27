@@ -58,8 +58,9 @@
 // example 2 :
 
 class person {
-    constructor() {
-       this.species = "Homo sapiens"
+    constructor(name) {
+        this.species = "Homo sapiens"
+        this.name = name;
     }
     eat() {
         console.log("eat");
@@ -76,12 +77,16 @@ class person {
     }
 }
 class engineer extends person {
+    constructor(name) {
+        super(name); // to invoke constructor of parent class... 
+    }
     work() {
+        super.eat();
         console.log("solve problems, build something")
     }
 }
 
-let engObj = new engineer(); 
+let engObj = new engineer("Prince");
 
 
 // super keywords : basicaly they are used to call constructor of their parent class to access parents properties...
