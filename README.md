@@ -1,65 +1,43 @@
-# Web Development 
+# Frontend Development Journey
 
-This repository contains my learning journey in Web Development.
+This repository contains my progress and projects while learning **Frontend Development**.
 
-## Topics Covered
+## Technologies Learned
 
-### Frontend Development
-- HTML5
-- CSS3
-- Responsive Design
-- Flexbox & Grid
-- Animations & Transitions
-- Figma Basics
-
-### JavaScript
-- Variables & Data Types
-- Functions & Arrays
-- DOM Manipulation
-- Events
-- Asynchronous JavaScript
-- Fetch API
-- Error Handling
-- Object-Oriented Programming (OOP)
-
-### Backend Development
-- Node.js
-- npm
-- Express.js
-- Routing & Middleware
-- Template Engines (EJS)
-- File System (fs)
-
-### Databases
-- MongoDB
-- Mongoose
-- CRUD Operations
-
-### Modern Web Development
-- Tailwind CSS
-- React.js
-- Redux
-- Next.js
-- Authentication
-- API Development
-- Server-Side Rendering (SSR)
-- Static Site Generation (SSG)
-- Incremental Static Regeneration (ISR)
-
-### Deployment
-- Web Hosting
-- VPS Deployment
-- Vercel Deployment
+* HTML
+* CSS
+* JavaScript
+* DOM Manipulation
+* Events & Event Listeners
+* Async JavaScript
+* Promises
+* Async/Await
+* Fetch API
+* Working with APIs
+* Git & GitHub
 
 ## Projects
 
-**Status:** `Upcoming`
+### Calculator
 
-- Netflix Clone
-- Spotify Clone
-- Twitter (X) Clone
-- Todo List App
-- Password Manager
-- Patreon Clone (GetMeAChai)
-- URL Shortener
-- Linktree Clone
+A functional calculator built using HTML, CSS, and JavaScript.
+
+### Portfolio Website
+
+A personal portfolio website created to showcase my skills, projects, and development journey.
+
+### Music App
+
+A music application built to practice frontend development concepts and create an interactive music-focused interface.
+
+## Progress
+
+* [x] HTML
+* [x] CSS
+* [x] JavaScript
+* [x] DOM Manipulation
+* [x] Events
+* [x] Async JavaScript
+* [x] Fetch API
+* [x] Frontend Projects
+
