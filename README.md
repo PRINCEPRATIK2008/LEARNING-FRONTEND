@@ -1,43 +1,146 @@
-# Frontend Development Journey
+# Learning Frontend — My Progress Journal
 
-This repository contains my progress and projects while learning **Frontend Development**.
+My journey of learning frontend development, from the fundamentals of HTML and CSS to JavaScript, DOM manipulation, APIs, and building frontend projects.
 
-## Technologies Learned
+## 📊 Progress Overview
 
-* HTML
-* CSS
-* JavaScript
-* DOM Manipulation
-* Events & Event Listeners
-* Async JavaScript
-* Promises
-* Async/Await
-* Fetch API
-* Working with APIs
-* Git & GitHub
+| # | Topic | Status |
+|---|---|---|
+| 1 | HTML | ✅ Done |
+| 2 | CSS | ✅ Done |
+| 3 | JavaScript | ✅ Done |
+| 4 | DOM Manipulation | ✅ Done |
+| 5 | Events | ✅ Done |
+| 6 | Async JavaScript | ✅ Done |
+| 7 | Fetch API | ✅ Done |
+| 8 | Frontend Projects | 🔄 In Progress |
 
-## Projects
+---
 
-### Calculator
+## 📚 What I Learned
 
-A functional calculator built using HTML, CSS, and JavaScript.
+### 1. HTML
 
-### Portfolio Website
+- HTML structure
+- Semantic HTML
+- Headings and paragraphs
+- Links and images
+- Lists
+- Tables
+- Forms and input elements
+- Buttons
+- HTML attributes
+- `div` and `span`
+- Semantic elements
+- Basic accessibility concepts
 
-A personal portfolio website created to showcase my skills, projects, and development journey.
+### 2. CSS
 
-### Music App
+- CSS syntax and selectors
+- Colors and backgrounds
+- Fonts and typography
+- Box model
+- Margins and padding
+- Borders
+- Width and height
+- Display properties
+- Positioning
+- Flexbox
+- CSS variables
+- Responsive layouts
+- Styling forms and buttons
 
-A music application built to practice frontend development concepts and create an interactive music-focused interface.
+### 3. JavaScript
 
-## Progress
+- Variables and data types
+- Operators
+- Conditional statements
+- Loops
+- Functions
+- Arrays
+- Objects
+- String methods
+- Arrow functions
+- Callbacks
+- Promises
+- Async / Await
+- Error handling
 
-* [x] HTML
-* [x] CSS
-* [x] JavaScript
-* [x] DOM Manipulation
-* [x] Events
-* [x] Async JavaScript
-* [x] Fetch API
-* [x] Frontend Projects
+### 4. DOM Manipulation
 
+- Selecting HTML elements
+- Changing text and HTML
+- Changing styles
+- Creating elements
+- Removing elements
+- Working with classes
+- Updating webpage content using JavaScript
+
+### 5. Events
+
+- Event listeners
+- Click events
+- Input events
+- Form events
+- Event objects
+- Event handling
+
+### 6. APIs & Asynchronous JavaScript
+
+- Fetch API
+- HTTP requests
+- JSON
+- API responses
+- Async / Await with APIs
+- Error handling
+- Displaying API data on webpages
+
+---
+
+## 💻 Projects
+
+Projects built while learning frontend development:
+
+- Personal Portfolio Website
+- Calculator
+- Music App
+- API-based projects
+- JavaScript practice projects
+- HTML & CSS practice websites
+
+---
+
+## 🛠️ Tools & Technologies
+
+- HTML5
+- CSS3
+- JavaScript
+- Visual Studio Code
+- Git
+- GitHub
+- Browser Developer Tools
+
+---
+
+## 🎯 Next Steps
+
+After completing the fundamentals of frontend development, my next focus is on:
+
+- Advanced JavaScript
+- React.js
+- Backend Development
+- Node.js
+- Express.js
+- Databases
+- Full-Stack Development
+
+---
+
+## 📈 Current Status
+
+**Frontend Fundamentals:** Completed ✅
+
+**HTML:** ✅  
+**CSS:** ✅  
+**JavaScript:** ✅  
+**Projects:** 🔄 Ongoing
